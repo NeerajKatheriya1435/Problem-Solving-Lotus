@@ -38,7 +38,5 @@ int main()
     // printf("%d\n",s1.id);
     // printf("%.2f\n",s1.mark);
 
-
-    
     return 0;
 }
