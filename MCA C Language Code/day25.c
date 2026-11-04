@@ -1,0 +1,1 @@
+int marks=78;
